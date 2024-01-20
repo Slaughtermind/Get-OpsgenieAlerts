@@ -1,5 +1,10 @@
 Get Opsgenie alerts via Rest API.
 
+Download and extract all files from this repository in same folder!
+
+Refer to Config.ini file for setup. As initial setup you will need only GenieKey.
+
+
  - Press F5 to refresh manually.
 
  - Press F8 to freeze/unfreeze auto refresh.
